@@ -1,0 +1,16 @@
+.MessageBoard {
+    height: 80vh;
+}
+
+.Messages {
+    /* border: red solid 1px; */
+    height: 65vh;
+    overflow-y: scroll;
+}
+
+.Form {
+    padding: 2vh;
+    height: 5vh;
+    /* border: green solid 1px; */
+    /* display: inline-block; */
+}

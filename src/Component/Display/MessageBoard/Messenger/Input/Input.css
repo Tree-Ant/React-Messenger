@@ -1,0 +1,24 @@
+.MessageInput {
+    /* color: red; */
+    width: 80%;
+    height: 5vh;
+    float: left;
+    box-sizing: border-box;
+    border: lightblue solid 1px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-left: 5px;
+
+}
+
+.AuthorInput {
+    /* color: blue; */
+    width: 10%;
+    height: 5vh;
+    float: left;
+    border: lightblue solid 1px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: bold;
+
+}

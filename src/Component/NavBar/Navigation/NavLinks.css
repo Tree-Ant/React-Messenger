@@ -1,0 +1,21 @@
+.NavLinks {
+    color: blue;
+    border: orange solid 1px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.NavLinks ul {
+    list-style: none;
+}
+
+.NavLinks li {
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+.NavLinks a {
+    text-decoration: none;
+}
+

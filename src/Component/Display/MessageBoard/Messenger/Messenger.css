@@ -1,0 +1,15 @@
+.Messenger {
+    text-align: center;
+}
+
+.Button {
+    float: left;
+    height: 5vh;
+    width: 10%;
+    background-color: #FFFF99;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    /* border: blue 5px solid; */
+}
